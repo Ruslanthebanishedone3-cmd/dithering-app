@@ -1,0 +1,8 @@
+{
+  "appId": "com.imagetools.app",
+  "appName": "Image tools",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
